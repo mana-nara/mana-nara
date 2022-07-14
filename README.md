@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Manasvini, a sophomore at UC Davis. I am studying Computer Science and Engineering. 
+- 🕺 I am passionate about coding and I love to learn new languages. 
 - 👀 I’m interested in web design, AI/ML and app development. 
 - 📫 You can reach me at @manaa.nara on Instagram. 
 
