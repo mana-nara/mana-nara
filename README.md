@@ -9,8 +9,8 @@ const manasvini_narayanan = {
     Web Development : ["HTML", "CSS" , "Javascript" , "React.js" , "Typescript" ],
     Technical Coding : ["C", "C++" , "Java" , "Python" , "Angular" , "SQL"]
     ],
-    hobbies : [ "Bharatanatyam" , "Classical Music" , "Hiking" , "Formula 1" , "Photography" ]
-    funFact: "Current favorite song is -.- .... --- / --. .- -.-- . / -... -.-- / - .- .- .-. ..- -.- / .-. .- .. -. .-",
+    hobbies : [ "Bharatanatyam" , "Classical Music" , "Hiking" , "Formula 1" , "Photography" ],
+    funFact: "Current favorite song is -.- .... --- / --. .- -.-- . / -... -.-- / - .- .- .-. ..- -.- / .-. .- .. -. .-"
   ```
   
   
